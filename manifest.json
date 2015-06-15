@@ -3,7 +3,7 @@
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
-  "author": "https://github.com/knowbody"
+  "author": "https://github.com/knowbody",
   "description": "Be motivated",
   "name": "Motivatab",
   "version": "0.1",
